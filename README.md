@@ -18,3 +18,10 @@ Japanese mod:
 
 In this case the left sides of the diodes are connected on the backside of the board.
 
+Installed in the US model I (using an earlier version of this board:
+
+![installed](./images/installed-us.png)
+
+Extracting A13 from the US board using the via near Z37:
+
+![a13](./images/a13-us.png)
