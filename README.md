@@ -8,11 +8,13 @@ This version supports both 27128 and 27256 EPROMs. When using the 256 you kan sw
 
 It is recommended to follow the same instructions for assembly as described in the above link using machined pins.
 
-The module can be used for both the US version as the Japanese version. For the Japanese version you need to place two (
-germanium/schottky) diodes (diode OR-gate) over JP1 and JP2. Both diodes need to point to Z61 on the board (to the
-right) and should be connected on the left side. Underside of the PCB describes this as well.
+The module can be used for both the US version as the Japanese version. 
 
 # Japanese board
+
+For the Japanese version you need to place two (
+germanium/schottky) diodes (diode OR-gate) over JP1 and JP2. Both diodes need to point to Z61 on the board (to the
+right) and should be connected on the left side. Underside of the PCB describes this as well.
 
 ![Diode OR](./images/diode-or.png)
 
