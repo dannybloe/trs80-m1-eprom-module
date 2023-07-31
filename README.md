@@ -13,5 +13,8 @@ germanium/schottky) diodes (diode OR-gate) over JP1 and JP2. Both diodes need to
 right) and should be connected on the left side. Underside of the PCB describes this as well.
 
 Japanese mod:
+
 ![Diode OR](./images/diode-or.png)
+
 In this case the left sides of the diodes are connected on the backside of the board.
+
