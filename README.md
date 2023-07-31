@@ -12,11 +12,24 @@ The module can be used for both the US version as the Japanese version. For the 
 germanium/schottky) diodes (diode OR-gate) over JP1 and JP2. Both diodes need to point to Z61 on the board (to the
 right) and should be connected on the left side. Underside of the PCB describes this as well.
 
-Japanese mod:
+#Japanese board:
 
 ![Diode OR](./images/diode-or.png)
 
 In this case the left sides of the diodes are connected on the backside of the board.
+
+# US board
+There are different versions of the US boards around. My version has pin 16 on X3 connected to pin 1 directly connected to ROMB*:
+
+![](./images/us-board-x3.png)
+
+On my board all jumpers on x3 are connected. 
+Some boards have a different configuration:
+
+![](./images/revd.png)
+
+In that case you may have to follow [these instructions](https://www.buessert.de/Technik/Museum/TRS-80/M1/ROM/english.htm) to make sure ROMA* and ROMB* are properly configured.
+
 
 Installed in the US model I (using an earlier version of this board:
 
