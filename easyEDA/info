@@ -1,10 +1,10 @@
 {
   "uuid": "2f80c77edf98a7c68a53205dbbe80657",
-  "path": "Offline/TRS-80 M1 EEPROM adapter",
-  "name": "TRS-80 M1 EEPROM adapter",
+  "path": "Offline/TRS-80%20M1%20EPROM%20adapter",
+  "name": "TRS-80 M1 EPROM adapter",
   "content": "",
   "created_at": "2023-07-19 10:14:38",
-  "updated_at": "2023-07-31 10:38:25",
+  "updated_at": "2023-07-31 11:03:36",
   "stick": "",
   "documents": [
     {
@@ -78,8 +78,8 @@
     {
       "uuid": "e7141bac1f0d5bcac434dcdef90d6f48",
       "puuid": "2f80c77edf98a7c68a53205dbbe80657",
-      "title": "PCB_TRS-80 M1 EEPROM adapter",
-      "filename": "PCB_TRS-80 M1 EEPROM adapter.json",
+      "title": "PCB_TRS-80 M1 EPROM adapter",
+      "filename": "PCB_TRS-80 M1 EPROM adapter.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -90,16 +90,16 @@
         "546d1f27d2ba488695055c2bd117710b": 1
       },
       "BOM": [],
-      "updateTime": 1690792705,
+      "updateTime": 1690794216,
       "createTime": 1689757225,
       "histories": [],
       "created_at": "2023-07-19 11:00:25",
-      "updated_at": "2023-07-31 10:38:25"
+      "updated_at": "2023-07-31 11:03:36"
     }
   ],
   "sort": [],
-  "title": "TRS-80 M1 EEPROM adapter",
-  "foldername": "TRS-80 M1 EEPROM adapter",
-  "schfilename": "TRS-80 M1 EEPROM adapter.json",
+  "title": "TRS-80 M1 EPROM adapter",
+  "foldername": "TRS-80 M1 EPROM adapter",
+  "schfilename": "TRS-80 M1 EPROM adapter.json",
   "schfilemtime": 1690785044657
 }
