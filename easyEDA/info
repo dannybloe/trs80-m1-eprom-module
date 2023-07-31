@@ -1,0 +1,105 @@
+{
+  "uuid": "2f80c77edf98a7c68a53205dbbe80657",
+  "path": "Offline/TRS-80 M1 EEPROM adapter",
+  "name": "TRS-80 M1 EEPROM adapter",
+  "content": "",
+  "created_at": "2023-07-19 10:14:38",
+  "updated_at": "2023-07-31 10:38:25",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "5058d1886cd38d3a2c4d7f83c2a681de",
+      "title": "Schema",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8d8ed2fc35454eeebb3b33c3a27dd9da": 1,
+        "ac8d304c8b32499289c05a147061f466": 1,
+        "3e680333a29649f0884211ec13d7ea68": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Custom",
+          1,
+          "HEADER - HEADER-FEMALE-2.54_1X4",
+          "J1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Sparkfun",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e5093c0354e147328ef4813f45d289fb",
+            "uuid": "3e680333a29649f0884211ec13d7ea68"
+          }
+        ],
+        [
+          "2716",
+          1,
+          "2716 PCB",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Ebay",
+            "puuid": "546d1f27d2ba488695055c2bd117710b",
+            "uuid": "8d8ed2fc35454eeebb3b33c3a27dd9da"
+          }
+        ],
+        [
+          "27256",
+          1,
+          "28PIN-DIP-0.6",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c03729065b584f0f9494232571eefef3",
+            "uuid": "ac8d304c8b32499289c05a147061f466"
+          }
+        ]
+      ],
+      "updateTime": 1690785044,
+      "createTime": 1689754479,
+      "histories": [],
+      "created_at": "2023-07-19 10:14:39",
+      "updated_at": "2023-07-31 08:30:44"
+    },
+    {
+      "uuid": "e7141bac1f0d5bcac434dcdef90d6f48",
+      "puuid": "2f80c77edf98a7c68a53205dbbe80657",
+      "title": "PCB_TRS-80 M1 EEPROM adapter",
+      "filename": "PCB_TRS-80 M1 EEPROM adapter.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c03729065b584f0f9494232571eefef3": 1,
+        "e5093c0354e147328ef4813f45d289fb": 1,
+        "546d1f27d2ba488695055c2bd117710b": 1
+      },
+      "BOM": [],
+      "updateTime": 1690792705,
+      "createTime": 1689757225,
+      "histories": [],
+      "created_at": "2023-07-19 11:00:25",
+      "updated_at": "2023-07-31 10:38:25"
+    }
+  ],
+  "sort": [],
+  "title": "TRS-80 M1 EEPROM adapter",
+  "foldername": "TRS-80 M1 EEPROM adapter",
+  "schfilename": "TRS-80 M1 EEPROM adapter.json",
+  "schfilemtime": 1690785044657
+}
