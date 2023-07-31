@@ -12,7 +12,7 @@ The module can be used for both the US version as the Japanese version. For the 
 germanium/schottky) diodes (diode OR-gate) over JP1 and JP2. Both diodes need to point to Z61 on the board (to the
 right) and should be connected on the left side. Underside of the PCB describes this as well.
 
-#Japanese board:
+# Japanese board
 
 ![Diode OR](./images/diode-or.png)
 
